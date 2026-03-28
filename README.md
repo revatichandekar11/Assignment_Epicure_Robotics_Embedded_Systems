@@ -19,7 +19,7 @@ GPIO17 (TXD2)	          PA1(UART4_RX)
 GPIO16 (RXD2)	          PA0(UART4_TX)	
 GND	                    GND
 
-LED and Stepper MOtor Pinouts on STM32
+LED and Stepper Motor Pinouts on STM32
 Pin	                    Function
 PA5	                    LED output
 PA6	                    Direction (DIR)
